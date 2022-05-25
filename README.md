@@ -1,4 +1,4 @@
-# AIassignment
+# AI_Introduction
 
 _**Introduction to Artificial Intelligence**_
 
