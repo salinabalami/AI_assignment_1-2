@@ -4,7 +4,7 @@ _**Introduction to Artificial Intelligence**_
 
 Artificial Intelligence (AI) is the branch of computer sciences that emphasizes the development of intelligence machines, thinking and working like humans. AI  is frequently applied to the project of developing systems endowed with the intellectual processes characteristic of humans, such as the ability to reason, discover meaning, generalize, or learn from past experience. For example, speech recognition, problem-solving, learning and planning.
 
-_**Major Filed of Artificial Intelligence**_
+_**Major Fields of Artificial Intelligence**_
 
 **1. Speech recognition:** 
 - Speech synthesis, including online and offline speech synthesis
