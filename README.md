@@ -23,6 +23,7 @@ _**Major Fields of Artificial Intelligence**_
 # Machine Learning
 
 _**Introduction to Machine Learning**_
+
 Machine learning is a branch of artificial intelligence (AI) and computer science which focuses on the use of data and algorithms to imitate the way that humans learn, gradually improving its accuracy.
 
 _**Stages of Machine learning**_
