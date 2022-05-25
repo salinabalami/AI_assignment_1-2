@@ -43,7 +43,7 @@ Supervised learning is the types of machine learning in which machines are train
 - Training required lots of computation times.
 - In supervised learning, we need enough knowledge about the classes of object.
 
-**2. Unsupervised Learing**
+**2. Unsupervised Learning**
 
 Unsupervised learning is a type of machine learning in which models are trained using unlabeled dataset and are allowed to act on that data without any supervision.
 
@@ -55,4 +55,6 @@ Unsupervised learning is a type of machine learning in which models are trained 
 - Unsupervised learning is intrinsically more difficult than supervised learning as it does not have corresponding output.
 - The result of the unsupervised learning algorithm might be less accurate as input data is not labeled, and algorithms do not know the exact output in advance.
 
-**3. Reinforcemment Learing**
+**3. Reinforcemment Learning**
+
+Reinforcement learning is a type of machine learning method where an intelligent agent (computer program) interacts with the environment and learns to act within that.Example of reinforcement learing is how a Robotic dog learns the movement of his arms.
