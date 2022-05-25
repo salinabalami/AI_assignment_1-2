@@ -29,6 +29,7 @@ Machine learning is a branch of artificial intelligence (AI) and computer scienc
 _**Stages of Machine learning**_
 
 **1. Supervised Learning**
+
 Supervised learning is the types of machine learning in which machines are trained using well "labelled" training data, and on basis of that data, machines predict the output. The labelled data means some input data is already tagged with the correct output. In supervised learning, the training data provided to the machines work as the supervisor that teaches the machines to predict the output correctly. It applies the same concept as a student learns in the supervision of the teacher.
 
 **Advantages of Supervised learning:**
@@ -43,6 +44,7 @@ Supervised learning is the types of machine learning in which machines are train
 - In supervised learning, we need enough knowledge about the classes of object.
 
 **2. Unsupervised Learing**
+
 Unsupervised learning is a type of machine learning in which models are trained using unlabeled dataset and are allowed to act on that data without any supervision.
 
 **Advantages of Unsupervised Learning**
