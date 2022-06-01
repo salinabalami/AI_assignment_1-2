@@ -20,3 +20,11 @@ _**Major Fields of Artificial Intelligence**_
 - Information Retrieval: For example, when I tell the computer what I am looking for, then it can search related things for me.
 - Intelligent customer service: We interact with the computer through voice and let it answer our questions.
 
+_**History of AI**_
+
+AI was a term first coined at Dartmouth College in 1956. Cognitive scientist Marvin Minsky was optimistic about the technology's future. The 1974-1980 saw government funding in the field drop, a period known as "AI winter", when several criticised progress in the field.
+ 
+However, the fervour was revived afterwards in the 1980s when the British government started funding the technology again, especially because they were worried about competition with the Japanese. In 1997, IBM's Deep Blue began the first computer to beat a Russian Grandmaster, making history.
+
+
+
